@@ -1,0 +1,8 @@
+.primary-background
+{
+    background:#311B92!important;
+}
+.banner-background
+{
+    clip-path: polygon(30% 0%, 70% 0%, 100% 0, 100% 82%, 73% 91%, 29% 91%, 0 91%, 0 0);
+}
